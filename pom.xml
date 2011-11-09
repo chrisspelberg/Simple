@@ -4,7 +4,7 @@
 
     <groupId>org.simpleframework</groupId>
     <artifactId>simple-http</artifactId>
-    <version>4.1.21.1</version>
+    <version>4.1.21.2-SNAPSHOT</version>
 
     <url>http://www.simpleframework.org/</url>
 
