@@ -11,7 +11,8 @@
     <url>http://www.simpleframework.org/</url>
 
     <scm>
-        <url>git://github.com/chrisspelberg/Simple.git</url>
+        <connection>scm:git:ssh://git@github.com/chrisspelberg/Simple.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/chrisspelberg/Simple.git</developerConnection>
     </scm>
 
     <dependencies>
